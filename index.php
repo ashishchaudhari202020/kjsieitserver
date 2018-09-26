@@ -12,10 +12,7 @@ img {
         background-color: white;
     }
 }
-@media screen and (min-height: 480px) {
-    body {
-        background-color: white;
-    }
+
 }
 body{
 	background-image: url('kjsiet.jpg' );
